@@ -1,2 +1,2 @@
 # LinearRegression-2024
-Freela para uma douturanda em Engenharia de produção. Dados ruins.
+Freelance project. Results where used by an Production Engineering PhD Candidate at UFES.
